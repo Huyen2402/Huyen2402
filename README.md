@@ -16,11 +16,11 @@
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/huyen2402?style=social&label=@Oriana Phan">
 </a>
 <a href="https://twitter.com/khuongcutedulam/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/khuongcutedulam?style=social&label=@Victor Nguyen">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/khuongcutedulam?style=social&label=@Oriana Phan">
 </a>
 </a>
 <a href="mailto:huyenxinhdep2402@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lapankhuongnguyen@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=huyenxinhdep2402@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
