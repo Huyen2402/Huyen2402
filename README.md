@@ -12,14 +12,14 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/khuongnguyen0412">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khuongnguyen0412?style=social&label=@Victor Nguyen">
+<a href="https://github.com/huyen2402">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/huyen2402?style=social&label=@Oriana Phan">
 </a>
 <a href="https://twitter.com/khuongcutedulam/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/khuongcutedulam?style=social&label=@Victor Nguyen">
 </a>
 </a>
-<a href="mailto:lapankhuongnguyen@gmail.com">
+<a href="mailto:huyenxinhdep2402@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=lapankhuongnguyen@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
